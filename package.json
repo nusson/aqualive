@@ -1,0 +1,21 @@
+{
+  "name": "gopro",
+  "version": "0.0.1",
+  "private": true,
+  "description": "A Mimosa starter skeleton",
+  "dependencies": {
+    "binaryjs": "^0.2.1",
+    "coffee-script": "1.7.1",
+    "consolidate": "0.10.0",
+    "express": "3.4.7",
+    "fs": "0.0.2",
+    "handlebars": "1.2.1"
+  },
+  "devDependencies": {
+    "mimosa-coffeescript": "*",
+    "mimosa-ractive": "*",
+    "mimosa-stylus": "*",
+    "util": "^0.10.3",
+    "utils-debug": "^0.5.22"
+  }
+}
